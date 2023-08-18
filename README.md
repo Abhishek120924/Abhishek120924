@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek120924
-- 👀 I’m interested in web app development usin java springboot, hibernate for backend and React, jQuery, CSS Bootstrap, HTML5 for front end. I use MySQL database.
-- 🌱 I’m currently learning PowerBI, Tableau, and Python
-- 💞️ I’m looking to collaborate on projects related to Machine learning, data mining and Webapp development.
+- 👀 I’m interested in data analysis and Business Inteligence. Having good prectical experience in Power BI, Power Automate, Python, Advanced Excel, SQL, java, CSS, HTML.
+- 🌱 I’m currently learning Talend, Tableau, and Azure Synapse.
+- 💞️ I’m looking to collaborate on projects related to data analysis, web scraping Machine learning.
 - 📫 Reach me at abhishek.iitme@gmail.com
 
 <!---
