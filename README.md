@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working in Data Analysis and business intelligence. <br>Having good experience in Power BI, QlikCloud, Python, Excel, SQL, Java,<br>JavaScript, HTML, CSS etc<br>
+Currently working in Data Analysis and business intelligence. <br>Having good experience in Power BI, QlikCloud, Apache Superset, Python, Excel, SQL, Java,<br>JavaScript, HTML, CSS etc<br>
 
 
 ## 🌐 Socials:
